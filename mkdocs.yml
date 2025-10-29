@@ -1,0 +1,71 @@
+site_name: Steyon Development Wiki
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.select
+
+nav:
+  - Home: index.md
+  - Plugins:
+    - SimpleVoidGen: plugins/simplevoidgen.md
+    - AntiSnowLag: plugins/antisnowlag.md
+
+extra_javascript:
+  - js/tabs.js
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://steyon.dev
+      name: Website
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/HysFYyKGY3
+      name: Discord
+    - icon: fontawesome/brands/github
+      link: https://github.com/steyondev
+      name: GitHub
+
+copyright: >
+  We're a dev team from Germany — we code with ❤ and 🍺.
+
+extra_css:
+  - css/index.css
+
+markdown_extensions:
+  - attr_list
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
