@@ -30,9 +30,10 @@ theme:
 
 nav:
   - Home: index.md
-  - Plugins:
-    - SimpleVoidGen: plugins/simplevoidgen.md
-    - AntiSnowLag: plugins/antisnowlag.md
+  - SimpleVoidGen:
+    - Get Started: simplevoidgen/GetStarted.md
+  - AntiSnowLag:
+    - Get Started: antisnowlag/GetStarted.md
 
 extra_javascript:
   - js/tabs.js
