@@ -1,5 +1,14 @@
-## Instalation
+# SimpleVoidGen – Get Started
 
-1. download the plugin from modrinth
-2. put the plugin in you plugin folder
-3. restart your server
+## Installation
+
+1. Lade das Plugin von [Modrinth](https://modrinth.com/plugin/simplevoidgen) herunter.
+2. Kopiere die `.jar`-Datei in den `plugins`-Ordner deines Servers.
+3. Starte den Server neu, um das Plugin zu laden.
+
+---
+
+## Lizenz & Quelle
+
+Das Plugin steht unter der MIT-Lizenz.
+Weitere Informationen und Quellcode findest du auf [Github](https://github.com/steyondev/simplevoidgen).
