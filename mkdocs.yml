@@ -32,7 +32,7 @@ nav:
   - Home: index.md
   - SimpleVoidGen:
     - Get Started: simplevoidgen/GetStarted.md
-    - Setup Multiverse Core: antisnowlag/Multiverse Core.md
+    - Setup Multiverse Core: simplevoidgen/Multiverse-Core.md
   - AntiSnowLag:
     - Get Started: antisnowlag/GetStarted.md
 
