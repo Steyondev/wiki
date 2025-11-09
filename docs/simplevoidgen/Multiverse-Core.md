@@ -3,11 +3,11 @@
 ## Create a new world with void generation
 
 ```
-/mv create <world_name> <env> -g SimpleVoidGen -t FLAT
+/mv create <world_name> <env> -g SimpleVoidGen
 ```
 
 ## Import a world with void generation
 
 ```
-/mv import <world_name> <env> -g SimpleVoidGen -t FLAT
+/mv import <world_name> <env> -g SimpleVoidGen
 ```
