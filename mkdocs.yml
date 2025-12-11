@@ -36,11 +36,11 @@ nav:
   - AntiSnowLag:
     - Get Started: antisnowlag/GetStarted.md
   - TranslateMC:
-    - Get Started: Webinterface/GetStarted.md
+    - Get Started: TranslateMC/Webinterface/GetStarted.md
     - Webinterface:
-      - Setup: Webinterface/Setup.md
+      - Setup: TranslateMC/Webinterface/Setup.md
     - Plugin:
-      - Setup: Plugin/Setup.md
+      - Setup: TranslateMC/Plugin/Setup.md
 
 extra_javascript:
   - js/tabs.js
