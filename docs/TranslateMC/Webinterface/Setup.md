@@ -1,4 +1,4 @@
-# TranslateMC – Server – Setup
+# TranslateMC – Webinterface – Setup
 
 1. Download The Latest Relesed Source code from the [Github Repo](https://github.com/Steyondev/TranslateMC-server/releases/latest)
 2. Get a server with nodejs Running
