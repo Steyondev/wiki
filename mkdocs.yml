@@ -36,7 +36,7 @@ nav:
   - AntiSnowLag:
     - Get Started: antisnowlag/GetStarted.md
   - TranslateMC:
-    - Get Started: antisnowlag/GetStarted.md
+    - Get Started: Webinterface/GetStarted.md
     - Webinterface:
       - Setup: Webinterface/Setup.md
     - Plugin:
