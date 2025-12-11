@@ -41,6 +41,8 @@ nav:
       - Setup: TranslateMC/Webinterface/Setup.md
     - Plugin:
       - Setup: TranslateMC/Plugin/Setup.md
+    - Dev:
+      - Setup: TranslateMC/Dev/Setup.md
 
 extra_javascript:
   - js/tabs.js
