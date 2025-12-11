@@ -35,6 +35,12 @@ nav:
     - Setup Multiverse Core: simplevoidgen/Multiverse-Core.md
   - AntiSnowLag:
     - Get Started: antisnowlag/GetStarted.md
+  - TranslateMC:
+    - Get Started: antisnowlag/GetStarted.md
+    - Webinterface:
+      - Setup: Webinterface/Setup.md
+    - Plugin:
+      - Setup: Plugin/Setup.md
 
 extra_javascript:
   - js/tabs.js
